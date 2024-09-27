@@ -1327,7 +1327,7 @@ const ringItemsNormal = [
 
     // Over load
     {
-        img: "set-normal/img/2_05.png",
+        img: "set-normal/img/2_07.png",
         name: "Legend Over Load Scope",
         level: "Legend",
         hitAtk: 0,
