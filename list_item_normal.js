@@ -581,7 +581,7 @@ const shirtItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_08.png",
+        img: "set-normal/img/6_08.png",
         name: "Rare Blaze Shirts",
         level: "Rare",
         hitAtk: 0,
@@ -601,7 +601,7 @@ const shirtItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_08.png",
+        img: "set-normal/img/6_08.png",
         name: "Legend Blaze Shirts",
         level: "Legend",
         hitAtk: 0,
@@ -621,7 +621,7 @@ const shirtItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_08.png",
+        img: "set-normal/img/6_08.png",
         name: "Ultimate Blaze Shirts",
         level: "Ultimate",
         hitAtk: 0,
@@ -903,7 +903,7 @@ const pantsItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_06.png",
+        img: "set-normal/img/6_06.png",
         name: "Rare Blaze Pants",
         level: "Rare",
         hitAtk: 0,
@@ -923,7 +923,7 @@ const pantsItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_06.png",
+        img: "set-normal/img/6_06.png",
         name: "Legend Blaze Pants",
         level: "Legend",
         hitAtk: 0,
@@ -943,7 +943,7 @@ const pantsItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_06.png",
+        img: "set-normal/img/6_06.png",
         name: "Ultimate Blaze Pants",
         level: "Ultimate",
         hitAtk: 0,
@@ -1225,7 +1225,7 @@ const faceItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_02.png",
+        img: "set-normal/img/6_02.png",
         name: "Rare Blaze Face",
         level: "Rare",
         hitAtk: 0,
@@ -1245,7 +1245,7 @@ const faceItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_02.png",
+        img: "set-normal/img/6_02.png",
         name: "Legend Blaze Face",
         level: "Legend",
         hitAtk: 0,
@@ -1265,7 +1265,7 @@ const faceItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_02.png",
+        img: "set-normal/img/6_02.png",
         name: "Ultimate Blaze Face",
         level: "Ultimate",
         hitAtk: 0,
@@ -1547,7 +1547,7 @@ const shoesItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_09.png",
+        img: "set-normal/img/6_09.png",
         name: "Rare Blaze Shoes",
         level: "Rare",
         hitAtk: 80,
@@ -1567,7 +1567,7 @@ const shoesItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_09.png",
+        img: "set-normal/img/6_09.png",
         name: "Legend Blaze Shoes",
         level: "Legend",
         hitAtk: 100,
@@ -1587,7 +1587,7 @@ const shoesItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_09.png",
+        img: "set-normal/img/6_09.png",
         name: "Ultimate Blaze Shoes",
         level: "Ultimate",
         hitAtk: 120,
@@ -1869,7 +1869,7 @@ const handItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_03.png",
+        img: "set-normal/img/6_03.png",
         name: "Rare Blaze Gloves",
         level: "Rare",
         hitAtk: 80,
@@ -1889,7 +1889,7 @@ const handItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_03.png",
+        img: "set-normal/img/6_03.png",
         name: "Legend Blaze Gloves",
         level: "Legend",
         hitAtk: 100,
@@ -1909,7 +1909,7 @@ const handItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_03.png",
+        img: "set-normal/img/6_03.png",
         name: "Ultimate Blaze Gloves",
         level: "Ultimate",
         hitAtk: 120,
@@ -2191,7 +2191,7 @@ const hatItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_05.png",
+        img: "set-normal/img/6_05.png",
         name: "Rare Blaze Mask",
         level: "Rare",
         hitAtk: 0,
@@ -2211,7 +2211,7 @@ const hatItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_05.png",
+        img: "set-normal/img/6_05.png",
         name: "Legend Blaze Mask",
         level: "Legend",
         hitAtk: 0,
@@ -2231,7 +2231,7 @@ const hatItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_05.png",
+        img: "set-normal/img/6_05.png",
         name: "Ultimate Blaze Mask",
         level: "Ultimate",
         hitAtk: 0,
@@ -2513,7 +2513,7 @@ const bagItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_01.png",
+        img: "set-normal/img/6_01.png",
         name: "Rare Blaze Gun",
         level: "Rare",
         hitAtk: 0,
@@ -2533,7 +2533,7 @@ const bagItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_01.png",
+        img: "set-normal/img/6_01.png",
         name: "Legend Blaze Gun",
         level: "Legend",
         hitAtk: 0,
@@ -2553,7 +2553,7 @@ const bagItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_01.png",
+        img: "set-normal/img/6_01.png",
         name: "Ultimate Blaze Gun",
         level: "Ultimate",
         hitAtk: 0,
@@ -2835,7 +2835,7 @@ const ringItemsNormal = [
 
     // Blaze
     {
-        img: "set-normal/img/5_07.png",
+        img: "set-normal/img/6_07.png",
         name: "Rare Blaze Ring",
         level: "Rare",
         hitAtk: 0,
@@ -2855,7 +2855,7 @@ const ringItemsNormal = [
         setId: 10015,
     },
     {
-        img: "set-normal/img/5_07.png",
+        img: "set-normal/img/6_07.png",
         name: "Legend Blaze Ring",
         level: "Legend",
         hitAtk: 0,
@@ -2875,7 +2875,7 @@ const ringItemsNormal = [
         setId: 10016,
     },
     {
-        img: "set-normal/img/5_07.png",
+        img: "set-normal/img/6_07.png",
         name: "Ultimate Blaze Ring",
         level: "Ultimate",
         hitAtk: 0,
