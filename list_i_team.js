@@ -2739,6 +2739,25 @@ const pantsItems = [
 ];
 const faceItems = [
     {
+        img: "set-normal/img/000001.png",
+        name: "Yellow Joker Mask",
+        level: "Ultimate",
+        hitAtk: 165,
+        gripAtk: 165,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 165,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 0,
+        hp: "0",
+        sp: "0",
+        cri: "",
+        dcri: "15",
+    },
+    {
         img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK7KP413lVWH4P-2Yg1DP7iU02QzwX5WwQAof3I85Mao8L2Nq5iIyXSWXAZc7KDm1YXn81Yx_uohUZNT7bpUuc6dsKFQBZOKFSkdAZBJoW1uzITynSqcdliGoQbwWiYhEa6xh6ngt1L9ck7vM2D_vmb_QwR_r4xxf5ZRL8qMndGPU-PH1RH0FhJvKpRQE/s1600/9.jpg",
         name: "Gold Knight Face",
         level: "Ultimate",
