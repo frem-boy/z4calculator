@@ -2726,7 +2726,7 @@ const ringItemsNormal = [
 
     // GALAXY6
     {
-        img: "set-normal/img/2_07.png",
+        img: "set-normal/img/3_07.png",
         name: "Legend GALAXY6 Ring",
         level: "Legend",
         hitAtk: 0,
@@ -2749,7 +2749,7 @@ const ringItemsNormal = [
 
     // GENOCIDE
     {
-        img: "set-normal/img/2_07.png",
+        img: "set-normal/img/4_07.png",
         name: "Legend GENOCIDE Ring",
         level: "Legend",
         hitAtk: 0,
