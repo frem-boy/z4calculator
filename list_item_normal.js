@@ -124,6 +124,29 @@ const hairItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_04.png",
+        name: "Legend Over Load Hair",
+        level: "Legend",
+        hitAtk: 0,
+        gripAtk: 0,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 0,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 60,
+        doubleDef: 60,
+        specialDef: 0,
+        hp: "1800",
+        sp: "0",
+        cri: "0",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 const shirtItemsNormal = [
     // war samurai
@@ -251,6 +274,29 @@ const shirtItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_08.png",
+        name: "Legend Over Load Shirt",
+        level: "Legend",
+        hitAtk: 0,
+        gripAtk: 0,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 0,
+        hitDef: 60,
+        gripDef: 60,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 60,
+        hp: "0",
+        sp: "0",
+        cri: "0",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 const pantsItemsNormal = [
     // war samurai
@@ -378,6 +424,29 @@ const pantsItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_06.png",
+        name: "Legend Over Load Pants",
+        level: "Legend",
+        hitAtk: 0,
+        gripAtk: 0,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 0,
+        hitDef: 60,
+        gripDef: 60,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 60,
+        hp: "0",
+        sp: "0",
+        cri: "0",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 const faceItemsNormal = [
     // war samurai
@@ -505,6 +574,29 @@ const faceItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_02.png",
+        name: "Legend Over Load Face",
+        level: "Legend",
+        hitAtk: 0,
+        gripAtk: 0,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 0,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 60,
+        doubleDef: 60,
+        specialDef: 0,
+        hp: "1800",
+        sp: "0",
+        cri: "0",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 const shoesItemsNormal = [
     // war samurai
@@ -632,6 +724,29 @@ const shoesItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_09.png",
+        name: "Legend Over Load Shoes",
+        level: "Legend",
+        hitAtk: 90,
+        gripAtk: 90,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 80,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 0,
+        hp: "0",
+        sp: "0",
+        cri: "0",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 const handItemsNormal = [
     // war samurai
@@ -759,6 +874,29 @@ const handItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_03.png",
+        name: "Legend Over Load Glove",
+        level: "Legend",
+        hitAtk: 90,
+        gripAtk: 90,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 80,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 0,
+        hp: "0",
+        sp: "0",
+        cri: "0",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 const hatItemsNormal = [
     // war samurai
@@ -886,6 +1024,29 @@ const hatItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_05.png",
+        name: "Legend Over Load Helmet",
+        level: "Legend",
+        hitAtk: 0,
+        gripAtk: 0,
+        teamAtk: 80,
+        doubleAtk: 80,
+        specialAtk: 0,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 0,
+        hp: "0",
+        sp: "1000",
+        cri: "5",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 const bagItemsNormal = [
     // war samurai
@@ -1013,6 +1174,29 @@ const bagItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_01.png",
+        name: "Legend Over Load Bag",
+        level: "Legend",
+        hitAtk: 0,
+        gripAtk: 0,
+        teamAtk: 0,
+        doubleAtk: 0,
+        specialAtk: 80,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 0,
+        hp: "0",
+        sp: "1000",
+        cri: "5",
+        dcri: "5",
+        setId: 10009,
+    },
+    // Over load
 ];
 const ringItemsNormal = [
     // war samurai
@@ -1081,7 +1265,7 @@ const ringItemsNormal = [
     // weapon master
     {
         img: "set-normal/img/1_07.png",
-        name: "Rare Weapon Master Head",
+        name: "Rare Weapon Master Ring",
         level: "Rare",
         hitAtk: 0,
         gripAtk: 0,
@@ -1101,7 +1285,7 @@ const ringItemsNormal = [
     },
     {
         img: "set-normal/img/1_07.png",
-        name: "Legend Weapon Master Head",
+        name: "Legend Weapon Master Ring",
         level: "Legend",
         hitAtk: 0,
         gripAtk: 0,
@@ -1121,7 +1305,7 @@ const ringItemsNormal = [
     },
     {
         img: "set-normal/img/1_07.png",
-        name: "Ultimate Weapon Master Head",
+        name: "Ultimate Weapon Master Ring",
         level: "Ultimate",
         hitAtk: 0,
         gripAtk: 0,
@@ -1140,6 +1324,29 @@ const ringItemsNormal = [
         setId: 10008,
     },
     // weapon master
+
+    // Over load
+    {
+        img: "set-normal/img/2_05.png",
+        name: "Legend Over Load Scope",
+        level: "Legend",
+        hitAtk: 0,
+        gripAtk: 0,
+        teamAtk: 80,
+        doubleAtk: 80,
+        specialAtk: 0,
+        hitDef: 0,
+        gripDef: 0,
+        teamDef: 0,
+        doubleDef: 0,
+        specialDef: 0,
+        hp: "0",
+        sp: "1000",
+        cri: "5",
+        dcri: "0",
+        setId: 10009,
+    },
+    // Over load
 ];
 
 const commonItemsNm = [
